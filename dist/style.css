@@ -1,0 +1,38 @@
+html {
+  margin: 4rem auto;
+  text-align: center;
+}
+
+body {
+  background-color: #050f2c;
+  margin: 23em auto;
+}
+
+.pure-button-lg {
+  font-size: 125%;
+}
+
+.button-twitter {
+  color: #fff;
+  background: #00acee;
+}
+
+.button-facebook {
+  color: #fff;
+  background: #3b5998;
+}
+
+.button-google-plus {
+  color: #fff;
+  background: #e93f2e;
+}
+
+.button-stumbleupon {
+  color: #fff;
+  background: #f74425;
+}
+
+.button-linkedin {
+  color: #fff;
+  background: #0e76a8;
+}
