@@ -1,1 +1,1 @@
-# social-sharing-buttons-purecss-fontawesome-sass
+# Social Sharing Buttons using Pure.css, Font Awesome and Sass
